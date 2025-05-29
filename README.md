@@ -6,7 +6,7 @@ You are a Cloud Engineer Consultant working with TechHealth Inc., a healthcare t
 Goal: Rebuild a 5 year old AWS enviroment that was configured manually through AWS Console
 
 Architecture:
-![alt text](aws_migration-2.jpg)
+![AWS Migration](aws_migration.jpg)
 
 AWS services used:
 AWS CDK - Typecript
